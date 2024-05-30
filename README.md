@@ -1,5 +1,4 @@
 # Microsoft-Power-BI-Project
-Data Analysis using Microsoft Power BI
 
 ## Introduction:
 Welcome to the Marketing Campaign Analytics project powered by Microsoft Power BI. This project is designed to provide comprehensive insights into the performance of a company's marketing campaigns. 
