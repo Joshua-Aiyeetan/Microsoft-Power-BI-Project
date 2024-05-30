@@ -11,7 +11,7 @@ In today's competitive landscape, understanding the effectiveness of marketing e
 **Maximizing Future Profits**: Armed with insights into past performance and a thorough understanding of influencing factors, we seek to chart a course for maximizing profits in future marketing campaigns. This includes formulating data-driven recommendations for optimizing ad spend allocation, refining targeting strategies, and enhancing overall campaign effectiveness.
 
 ## Analysis And Visualization
-<img width="577" alt="Power BI Marketing Report Slide 1" src="https://github.com/Joshua-Aiyeetan/Microsoft-Power-BI-Project/assets/170111228/c1a5cf14-05cc-4a4e-9161-f16a9d1415f1">
+<img width="638" alt="Power BI Marketing Report Slide 1" src="https://github.com/Joshua-Aiyeetan/Microsoft-Power-BI-Project/assets/170111228/6845c567-8d17-446e-bf10-99dfe3e72a70">
 
 <img width="635" alt="Power BI Marketing Report Slide 2" src="https://github.com/Joshua-Aiyeetan/Microsoft-Power-BI-Project/assets/170111228/303e2d24-5fd1-4246-aee9-48e6bfaa7440">
 
