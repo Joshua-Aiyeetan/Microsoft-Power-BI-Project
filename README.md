@@ -22,5 +22,5 @@ In today's competitive landscape, understanding the effectiveness of marketing e
 ## Summary
 In summary, this Power BI project serves as a powerful tool for unlocking the full potential of marketing campaigns, guiding strategic decision-making, and ultimately driving business growth.
 
-## Thank you
+## Thank you!
 
